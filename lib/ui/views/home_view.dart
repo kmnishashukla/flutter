@@ -39,7 +39,7 @@ class HomeView extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
                 Text(
-                  'Elifco',
+                  'Welcome to LW',
                   style: TextStyle(
                     color: Global.white,
                     fontSize: 40.0,
